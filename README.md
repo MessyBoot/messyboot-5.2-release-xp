@@ -1,9 +1,8 @@
 <html>
-  <body>
-    <div class="container">
-      <section id="main_content">
-        <h1>
-<a id="messyboot-52-windows-nt6-build" class="anchor" href="#messyboot-52-windows-nt6-build" aria-hidden="true"><span class="octicon octicon-link"></span></a>MessyBoot 5.2 Windows NT6 Build</h1>
+<body>
+<div class="container">
+<section id="main_content">
+<h1><a id="messyboot-52-windows-nt5-build" class="anchor" href="#messyboot-52-windows-nt5-build" aria-hidden="true"><span class="octicon octicon-link"></span></a>MessyBoot 5.2 Windows NT5 Build</h1><h4>Full Release</h4>
 
 <h2>
 <a id="boot-tools-diagnostics-utilities--drivers" class="anchor" href="#boot-tools-diagnostics-utilities--drivers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Boot Tools, Diagnostics, Utilities &amp; Drivers</h2>
@@ -12,7 +11,7 @@
 <a id="for-windows-based-pcs" class="anchor" href="#for-windows-based-pcs" aria-hidden="true"><span class="octicon octicon-link"></span></a>for Windows based PCs</h2>
 
 <p>MessyBoot is a collection of drivers, tools, diagnostics &amp; utilities for Windows based PCs.</p>
-<img src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10421158_1537311053246164_2985267898809270591_n.png?oh=f1ea61da3c3e013feaec615a05e13c56&oe=5719809E" alt="MessyBoot Boot Tools, Diagnostics, utilities &amp; Drivers for Windows W7, W8, W8.1, W10, Vista"></p>
+<img src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10421158_1537311053246164_2985267898809270591_n.png?oh=f1ea61da3c3e013feaec615a05e13c56&oe=5719809E" alt="MessyBoot Boot Tools, Diagnostics, utilities &amp; Drivers for Windows 2000, Windows XP & Windows 2003 Server Family"></p>
 
 <p>MessyBoot has two different functions;</p>
 
@@ -52,15 +51,12 @@
 <a id="supported-os" class="anchor" href="#supported-os" aria-hidden="true"><span class="octicon octicon-link"></span></a>Supported OS:</h3>
 
 <ul>
-<li>Windows Vista (x86/x64)</li>
-<li>Windows 7 (x86/x64)</li>
-<li>Windows 8 (x86/x64)</li>
-<li>Windows 8.1 (x86/x64)</li>
-<li>Windows 10 (x86/x64)</li>
-<li>Windows Server 2008 (x86/x64)</li>
-<li>Windows Home Server 2011 (x86/x64)</li>
-<li>Windows Server 2012 (x86/x64)</li>
-<li>Windows Server 2016 (x86/x64)</li>
+<li>Windows 2000 Professional (x86)</li>
+<li>Windows 2000 Server (x86)</li>
+<li>Windows XP Home (x86)</li>
+<li>Windows XP Professional (x86)</li>
+<li>Windows XP Media Center Edition (x86)</li>
+<li>Windows Server 2003 (x86)</li>
 </ul>
 
 <h3>
