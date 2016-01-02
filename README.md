@@ -4,11 +4,9 @@
 <section id="main_content">
 <h1><a id="messyboot-52-windows-nt5-build" class="anchor" href="#messyboot-52-windows-nt5-build" aria-hidden="true"><span class="octicon octicon-link"></span></a>MessyBoot 5.2 Windows NT5 Build</h1><h4>Full Release</h4>
 
-<h2>
-<a id="boot-tools-diagnostics-utilities--drivers" class="anchor" href="#boot-tools-diagnostics-utilities--drivers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Boot Tools, Diagnostics, Utilities &amp; Drivers</h2>
+<h2><a id="boot-tools-diagnostics-utilities--drivers" class="anchor" href="#boot-tools-diagnostics-utilities--drivers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Boot Tools, Diagnostics, Utilities &amp; Drivers</h2>
 
-<h2>
-<a id="for-windows-based-pcs" class="anchor" href="#for-windows-based-pcs" aria-hidden="true"><span class="octicon octicon-link"></span></a>for Windows based PCs</h2>
+<h2><a id="for-windows-based-pcs" class="anchor" href="#for-windows-based-pcs" aria-hidden="true"><span class="octicon octicon-link"></span></a>for Windows based PCs</h2>
 
 <p>MessyBoot is a collection of drivers, tools, diagnostics &amp; utilities for Windows based PCs.</p>
 <img src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10421158_1537311053246164_2985267898809270591_n.png?oh=f1ea61da3c3e013feaec615a05e13c56&oe=5719809E" alt="MessyBoot Boot Tools, Diagnostics, utilities &amp; Drivers for Windows 2000, Windows XP & Windows 2003 Server Family"></p>
