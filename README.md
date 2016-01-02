@@ -5,19 +5,27 @@
 <h1><a id="messyboot-52-windows-nt5-build" class="anchor" href="#messyboot-52-windows-nt5-build" aria-hidden="true"><span class="octicon octicon-link"></span></a>MessyBoot 5.2 Windows NT5 Build: Full Release</h1>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h2><a id="boot-tools-diagnostics-utilities--drivers" class="anchor" href="#boot-tools-diagnostics-utilities--drivers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Boot Tools, Diagnostics, Utilities &amp; Drivers DVD</h2>
 =======
 <h2><a id="boot-tools-diagnostics-utilities--drivers" class="anchor" href="#boot-tools-diagnostics-utilities--drivers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Boot Tools, Diagnostics, Utilities &amp; Drivers</h2>
 >>>>>>> bd6586566369e6eb54e9a84f827008ad07246fcb
+=======
+<h2><a id="boot-tools-diagnostics-utilities--drivers" class="anchor" href="#boot-tools-diagnostics-utilities--drivers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Boot Tools, Diagnostics, Utilities &amp; Drivers DVD</h2>
+>>>>>>> 394f33bb89e9c7b4b760a6259399c53bf0688af6
 
 <h2><a id="for-windows-based-pcs" class="anchor" href="#for-windows-based-pcs" aria-hidden="true"><span class="octicon octicon-link"></span></a>for Windows based PCs</h2>
 
 <p>MessyBoot is a collection of drivers, tools, diagnostics &amp; utilities for Windows based PCs.</p>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <img src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10421158_1537311053246164_2985267898809270591_n.png?oh=f1ea61da3c3e013feaec615a05e13c56&oe=5719809E" alt="MessyBoot Boot Tools, Diagnostics, utilities &amp; Drivers DVD for Windows 2000, Windows XP & Windows 2003 Server Family"></p>
 =======
 <img src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10421158_1537311053246164_2985267898809270591_n.png?oh=f1ea61da3c3e013feaec615a05e13c56&oe=5719809E" alt="MessyBoot Boot Tools, Diagnostics, utilities &amp; Drivers for Windows 2000, Windows XP & Windows 2003 Server Family"></p>
 >>>>>>> bd6586566369e6eb54e9a84f827008ad07246fcb
+=======
+<img src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10421158_1537311053246164_2985267898809270591_n.png?oh=f1ea61da3c3e013feaec615a05e13c56&oe=5719809E" alt="MessyBoot Boot Tools, Diagnostics, utilities &amp; Drivers DVD for Windows 2000, Windows XP & Windows 2003 Server Family"></p>
+>>>>>>> 394f33bb89e9c7b4b760a6259399c53bf0688af6
 
 <p>MessyBoot has two different functions;</p>
 
