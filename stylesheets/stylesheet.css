@@ -79,21 +79,22 @@ header h3 {
 
 header a {
 	text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-	color: #8F8;
+	color: #B5E853;
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+	text-decoration: none;
 }
 
-header a, a:visited {
+header a:visited {
 	color: #9AE296;
 	text-decoration: none;
 }
 
-header a, a:active {
+header a:active {
 	color: #88FF88;
 	text-decoration: none;
 }
 
-header a, a:hover {
+header a:hover {
 	color: #9AFF96;
 	text-decoration:underline;
 }
