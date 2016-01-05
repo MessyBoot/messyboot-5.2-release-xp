@@ -421,3 +421,9 @@ a {
 }.more-info {
 	font-size: 14px;
 }
+#more-info {
+	text-decoration: none;
+}
+#more-info {
+	color: #FFFF00;
+}
