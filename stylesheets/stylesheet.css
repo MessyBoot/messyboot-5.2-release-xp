@@ -37,7 +37,7 @@ li {
 
 .pageHeader {
 	background: rgba(0, 0, 0, 0.1);
-	width: 80%;
+	width: 100%;
 	max-width: 600;
 	border-bottom: 1px dashed #b5e853;
 	margin: 0;
