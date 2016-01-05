@@ -12,7 +12,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 600px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
@@ -66,6 +66,38 @@ header h2 {
   font-weight: 300;
   color: #666;
 }
+
+header h3 {
+  font-size: 12px;
+  font-weight: 300;
+  color: #0f0;
+}
+
+/* Links
+   a, a:hover, a:visited
+*/
+
+header a {
+	text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+	color: #8F8;
+	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+}
+
+header a, a:visited {
+	color: #9AE296;
+	text-decoration: none;
+}
+
+header a, a:active {
+	color: #88FF88;
+	text-decoration: none;
+}
+
+header a, a:hover {
+	color: #9AFF96;
+	text-decoration:underline;
+}
+
 
 #downloads .btn {
   display: inline-block;
@@ -221,14 +253,12 @@ hr {
   background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
-/* Links
-   a, a:hover, a:visited
-*/
-
 a {
 	text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 	color: #b5e853;
+	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
+
 
 /* Clearfix */
 
