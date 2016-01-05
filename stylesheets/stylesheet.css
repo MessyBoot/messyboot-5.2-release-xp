@@ -37,17 +37,17 @@ li {
 
 #pageHeader {
   background: rgba(0, 0, 0, 0.1);
-  width: 90%;
+  width: 100%;
   max-width: 600;
   border-bottom: 1px dashed #b5e853;
   padding: 20px 0;
-  margin: 0 0 40px 0;
+  margin: 0 0 0 0;
 }
 
 #pageHeader h1 {
 	font-size: 20px;
 	line-height: normal;
-	margin: 0 0 0 80px;
+	margin: 0 0 0 0;
 	font-weight: bold;
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
@@ -66,7 +66,7 @@ li {
 #pageHeader h2 {
   font-size: 18px;
   line-height: normal;
-  margin: 0 160px 0 0;
+  margin: 0 0 0 0;
   font-weight: 300;
   color: #666;
 }
