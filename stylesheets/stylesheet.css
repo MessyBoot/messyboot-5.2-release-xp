@@ -47,7 +47,7 @@ header {
 header h1 {
 	font-size: 25px;
 	line-height: 1.5;
-	margin: 0 0 0 -40px;
+	margin: 0 0 40px 40px;
 	font-weight: bold;
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
