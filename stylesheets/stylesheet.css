@@ -12,7 +12,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 800px;
+  max-width: 600;
   margin: 0 auto;
 }
 
@@ -35,16 +35,16 @@ li {
    h2       - project description
 */
 
-#pageHeader {
+.pageHeader {
   background: rgba(0, 0, 0, 0.1);
-  width: 100%;
+  width: 90%;
   max-width: 600;
   border-bottom: 1px dashed #b5e853;
   padding: 20px 0;
-  margin: 0 0 0 0;
+  margin: 0 auto;
 }
 
-#pageHeader h1 {
+.pageHeader h1 {
 	font-size: 20px;
 	line-height: normal;
 	margin: 0 0 0 0;
@@ -63,7 +63,7 @@ li {
 }
 */
 
-#pageHeader h2 {
+.pageHeader h2 {
   font-size: 18px;
   line-height: normal;
   margin: 0 0 0 0;
@@ -71,7 +71,7 @@ li {
   color: #666;
 }
 
-pageHeader h3 {
+.pageHeader h3 {
   font-size: 12px;
   line-height: normal;
   font-weight: 300;
@@ -82,36 +82,36 @@ pageHeader h3 {
    a, a:hover, a:visited
 */
 
-header a {
+.pageHeader a {
 	text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 	color: #B5E853;
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 	text-decoration: none;
 }
 
-header a:visited {
+.pageHeader a:visited {
 	color: #9AE296;
 	text-decoration: none;
 }
 
-header a:active {
+.pageHeader a:active {
 	color: #88FF88;
 	text-decoration: none;
 }
 
-header a:hover {
+.pageHeader a:hover {
 	color: #9AFF96;
 	text-decoration:underline;
 }
 
-#pageHeader a {
+'pageHeader a {
 	text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 	color: #B5E853;
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 	text-decoration: none;
 }
 
-#pageHeader a:visited {
+'pageHeader a:visited {
 	color: #9AE296;
 	text-decoration: none;
 }
