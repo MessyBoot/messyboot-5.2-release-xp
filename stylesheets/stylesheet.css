@@ -143,8 +143,9 @@ li {
 */
 
 #main_content {
-  width: 100%;
-  -webkit-font-smoothing: antialiased;
+	width: 100%;
+	-webkit-font-smoothing: antialiased;
+	font-weight: bold;
 }
 section img {
   max-width: 100%
