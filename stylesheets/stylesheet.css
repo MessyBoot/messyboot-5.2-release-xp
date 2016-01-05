@@ -118,13 +118,13 @@ li {
 
 .pageHeader2 {
 	background: rgba(0, 0, 0, 0.1);
-	width: 80%;
+	width: 100%;
 	max-width: 600;
-	margin: 0 auto;
+	margin: 0;
 	height: 20px;
 	position: relative;
 	visibility: visible;
-	float: none;
+	float: left;
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 	right: auto;
 	bottom: auto;
