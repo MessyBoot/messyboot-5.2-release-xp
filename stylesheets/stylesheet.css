@@ -122,13 +122,9 @@ li {
 	max-width: 600;
 	margin: 0;
 	height: 20px;
-	overflow: auto;
 	position: relative;
 	visibility: visible;
-	z-index: auto;
-	top: auto;
 	float: left;
-	left: auto;
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 	right: auto;
 	bottom: auto;
