@@ -35,7 +35,7 @@ li {
    h2       - project description
 */
 
-header {
+#pageHeader {
   background: rgba(0, 0, 0, 0.1);
   width: 90%;
   max-width: 600;
@@ -44,7 +44,7 @@ header {
   margin: 0 0 40px 0;
 }
 
-header h1 {
+#pageHeader h1 {
 	font-size: 20px;
 	line-height: normal;
 	margin: 0 0 0 80px;
@@ -63,7 +63,7 @@ header h1 {
 }
 */
 
-header h2 {
+#pageHeader h2 {
   font-size: 18px;
   line-height: normal;
   margin: 0 160px 0 0;
@@ -71,7 +71,7 @@ header h2 {
   color: #666;
 }
 
-header h3 {
+pageHeader h3 {
   font-size: 12px;
   line-height: normal;
   font-weight: 300;
