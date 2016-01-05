@@ -126,7 +126,11 @@ li {
 	text-decoration:underline;
 }
 
-
+#downloads {
+	width: 90%;
+	max-width: 600;
+	margin: 0 auto;
+}
 
 
 #downloads .btn {
