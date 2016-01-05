@@ -65,12 +65,15 @@ header h1 {
 
 header h2 {
   font-size: 18px;
+  line-height: 1.5;
+  margin: 0 0 40px 0;
   font-weight: 300;
   color: #666;
 }
 
 header h3 {
   font-size: 12px;
+  line-height: normal;
   font-weight: 300;
   color: #0f0;
 }
